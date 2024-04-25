@@ -1,0 +1,1 @@
+This module adds support for 'Starfinder' to [Material Deck](https://github.com/MaterialFoundry/MaterialDeck).
