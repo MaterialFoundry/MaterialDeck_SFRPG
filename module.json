@@ -1,37 +1,55 @@
 {
-    "id": "materialdeck-sfrpg",
-    "title": "Material Deck - Starfinder",
-    "description": "This module adds support for 'Starfinder' to Material Deck.",
-    "version": "1.0.1",
-    "authors": [
-        {
-            "name": "CDeenen",
-            "email": "info@materialfoundry.nl",
-            "discord": "Cris#6864",
-            "patreon": "MaterialFoundry",
-            "reddit": "CDeenen123"
+  "id": "materialdeck-sfrpg",
+  "title": "Material Deck - Starfinder",
+  "description": "This module adds support for 'Starfinder' to 'Material Deck'.",
+  "version": "2.0.0",
+  "authors": [
+    {
+      "name": "Material Foundry",
+      "email": "info@materialfoundry.nl",
+      "discord": "materialfoundry",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "materialdeck-sfrpg.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "sfrpg",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "0.27.1",
+          "verified": "0.27.1"
         }
+      }
     ],
-    "esmodules": [
-        "./materialdeck-sfrpg.js"
-    ],
-    "relationships": {
-        "requires": [{
-            "id": "MaterialDeck",
-            "type": "module",
-            "manifest": "https://github.com/MaterialFoundry/MaterialDeck/releases/latest/download/module.json",
-            "compatibility": {
-                "minimum": "1.7.1",
-                "verified": "1.7.1"
-            }
-        }]
-    },
-    "compatibility": {
-        "minimum": "10",
-        "verified": "11"
-    },
-    "manifestPlusVersion": "1.1.0",
-    "url": "https://github.com/MaterialFoundry/MaterialFoundry_SFRPG",
-    "manifest": "https://github.com/MaterialFoundry/MaterialFoundry_SFRPG/releases/latest/download/module.json",
-    "download": "https://github.com/MaterialFoundry/MaterialFoundry_SFRPG/releases/download/v1.0.1/module.zip"
+    "requires": [
+      {
+        "id": "materialdeck-premium",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.0.5",
+          "verified": "2.0.5"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "url": "https://github.com/materialfoundry/materialdeck_sfrpg",
+  "manifest": "https://github.com/materialfoundry/materialdeck_sfrpg/releases/latest/download/module.json",
+  "download": "https://github.com/materialfoundry/materialdeck_sfrpg/releases/download/v2.0.0/module.zip"
 }

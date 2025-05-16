@@ -1,0 +1,21 @@
+All images licenced under CC BY 3.0. From game-icons.net
+acr.png: https://game-icons.net/1x1/delapouite/contortionist.html 
+ath.png: https://game-icons.net/1x1/lorc/muscle-up.html
+blu.png: https://game-icons.net/1x1/delapouite/convince.html
+com.png: https://game-icons.net/1x1/delapouite/laptop.html
+cul.png: https://game-icons.net/1x1/lorc/drama-masks.html
+dip.png: https://game-icons.net/1x1/delapouite/shaking-hands.html
+dis.png: https://game-icons.net/1x1/lorc/domino-mask.html
+eng.png: https://game-icons.net/1x1/lorc/tinker.html
+int.png: https://game-icons.net/1x1/lorc/one-eyed.html
+lsc.png: https://game-icons.net/1x1/lorc/anatomy.html
+med.png: https://game-icons.net/1x1/delapouite/first-aid-kit.html
+mys.png: https://game-icons.net/1x1/skoll/pentacle.html
+per.png: https://game-icons.net/1x1/lorc/semi-closed-eye.html
+phs.png: https://game-icons.net/1x1/lorc/materials-science.html
+pil.png: https://game-icons.net/1x1/delapouite/plane-pilot.html
+pro.png: https://game-icons.net/1x1/delapouite/farmer.html
+sen.png: https://game-icons.net/1x1/lorc/light-bulb.html
+sle.png: https://game-icons.net/1x1/lorc/snatch.html
+ste.png: https://game-icons.net/1x1/lorc/cloak-dagger.html
+sur.png: https://game-icons.net/1x1/delapouite/pyre.html
