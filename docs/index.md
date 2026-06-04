@@ -12,9 +12,11 @@ The Material Deck Starfinder system module adds Starfinder-dependent features to
 
 
 ## Combatibility
+Tested on:<br>
+<b>Foundry VTT</b>: v13-v14<br>
+<b>Starfinder</b>: v0.28
 
-<b>Foundry VTT</b>: v12-v13<br>
-<b>Starfinder</b>: v0.27
+Requires Material Deck v2.2.0+.
 
 ## Feedback & Issues
 If you have any suggestions or bugs to report, feel free to:

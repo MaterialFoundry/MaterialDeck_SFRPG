@@ -2,7 +2,7 @@
   "id": "materialdeck-sfrpg",
   "title": "Material Deck - Starfinder",
   "description": "This module adds support for 'Starfinder' to 'Material Deck'.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "authors": [
     {
       "name": "Material Foundry",
@@ -30,7 +30,7 @@
         "manifest": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/releases/latest/download/system.json",
         "compatibility": {
           "minimum": "0.27.1",
-          "verified": "0.27.1"
+          "verified": "0.28.3"
         }
       }
     ],
@@ -39,15 +39,15 @@
         "id": "materialdeck-premium",
         "type": "module",
         "compatibility": {
-          "minimum": "2.0.5",
-          "verified": "2.0.5"
+          "minimum": "2.2.0",
+          "verified": "2.2.0"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "12",
-    "verified": "13"
+    "minimum": "13",
+    "verified": "14"
   },
   "url": "https://github.com/materialfoundry/materialdeck_sfrpg",
   "manifest": "https://github.com/materialfoundry/materialdeck_sfrpg/releases/latest/download/module.json",
